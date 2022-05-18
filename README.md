@@ -1,8 +1,7 @@
 ## Oiii eu sou Jack! Curioso, iniciante em programação python e estudioso de ciência de dados.
 <div align="center">
   <a href="https://github.com/analistajack">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=analistajack&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analistajack&layout=compact&langs_count=7&theme=dracula"/>
+ [![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=analistajack)](https://github.com/analistajack/github-readme-stats)
 </div>
  
 <div>
