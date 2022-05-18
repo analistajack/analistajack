@@ -1,4 +1,4 @@
-## Oiii eu sou Jack! Curioso, iniciante em programação python e estudioso de ciência de dados.
+## Oiii eu sou Jack! Curioso, amante da tecnologia e um iniciante em programação python e estudioso de ciência de dados.
 <div align="center">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=analistajack&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  
