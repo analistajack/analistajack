@@ -10,7 +10,7 @@
  <div style="display: inline_block">
   <img align="center" alt="icon-PBI" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png">
   <img align="center" alt="icon-Py" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png">
-  <img align="center" alt="icon-SQL" height="30" width="30" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
+  <img align="center" alt="icon-SQL" height="30" width="30" src="https://www.pngitem.com/pimgs/m/197-1973343_sql-database-icon-png-transparent-png.png">
  </div>
  
  
