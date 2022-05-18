@@ -1,7 +1,7 @@
 ## Oiii eu sou Jack! Curioso, iniciante em programação python e estudioso de ciência de dados.
 <div align="center">
   <a href="https://github.com/analistajack">
- [![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=analistajack)](https://github.com/analistajack/github-readme-stats)
+ ![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=analistajack)](https://github.com/analistajack/github-readme-stats)
 </div>
  
 <div>
