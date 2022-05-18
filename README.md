@@ -1,8 +1,5 @@
 ## Oiii eu sou Jack! Curioso, iniciante em programação python e estudioso de ciência de dados.
-<div align="center">
-  <a href="https://github.com/analistajack">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=analistajack&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=analistajack&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  
 <div>
   <a href="https://www.linkedin.com/in/jacsonglashorester/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
