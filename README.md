@@ -1,4 +1,4 @@
-## Oiii eu sou Jack! Curioso, amante da tecnologia e um iniciante em programação python e estudioso de ciência de dados.
+## Depois de 10 anos como fotógrafo, na pandemia migrei de carreira para me tornar um analista de dados, hoje com mais de 4 anos de experiência em análise de dados e business intelligence (BI), especializado na criação de dashboards interativos, automação de ETL e modelagem avançada de dados para apoiar a tomada de decisões estratégicas. Proficiência em SQL, Python, Power BI e DAX, com forte foco em precisão de dados, visualização e colaboração entre equipes. Habilidade traduzir conjuntos de dados complexos em insights acionáveis que impulsionam o crescimento do negócio. Hoje me desenvolvo para o aprendizado de novas linguagens e novas formas de criação de dashboards, tal como a criação de dashboards usando python e react/tailwind (ainda em aprendizagem)
 <div align="center">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=analistajack&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  
